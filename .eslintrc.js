@@ -16,6 +16,8 @@ module.exports = {
     ecmaVersion: 2018,
     sourceType: 'module',
   },
+
+  
   globals: {
     wx: true,
     App: true,
